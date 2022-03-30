@@ -20,10 +20,11 @@ git configshell
 1) $ git config --list --show-origin
 
 1)$git config --global --edit 
+
 **It will open git config file and you can make necessary changes**
 
 
-#GIT Cheat Sheet
+#GIT Cheat Sheet#
 Install
 GitHub Desktop
 desktop.github.com
