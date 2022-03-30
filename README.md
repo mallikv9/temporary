@@ -24,7 +24,7 @@ git configshell
 **It will open git config file and you can make necessary changes**
 
 
-#GIT Cheat Sheet#
+# GIT Cheat Sheet
 Install
 GitHub Desktop
 desktop.github.com
