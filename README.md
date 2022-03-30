@@ -2,6 +2,7 @@
 This repo is to redo few functionalities
 
 
+
 git config globalshell 
 1)$ git config --global user.name "Mallik V"
 2)$ git config --global user.email "mallik@email.com"
